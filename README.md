@@ -18,7 +18,7 @@ I am a Software Engineer who believes that **strong fundamentals outlive any tre
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,spring,laravel,mysql,git" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,laravel,mysql,git" alt="Tech Stack Icons" />
   </a>
 </div>
 
